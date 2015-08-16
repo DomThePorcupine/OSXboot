@@ -2,13 +2,13 @@ This is a simple shell script designed to create a bootable USB from an iso file
 ------------------------------------------------------------------------------------------------------
 To use it:
 
-git clone https://github.com/domtheporcupine/OSXboot
+`git clone https://github.com/domtheporcupine/OSXboot`
 
-cd OSXboot
+`cd OSXboot`
 
-chmod +x makeBoot.sh
+`chmod +x makeBoot.sh`
 
-./makeBoot.sh
+`./makeBoot.sh`
 
 
 
